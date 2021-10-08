@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/abang-abangan_store/static/css/main.5311f6c3.chunk.css",
-    "main.js": "/abang-abangan_store/static/js/main.bee582c1.chunk.js",
-    "main.js.map": "/abang-abangan_store/static/js/main.bee582c1.chunk.js.map",
+    "main.js": "/abang-abangan_store/static/js/main.0f2678c1.chunk.js",
+    "main.js.map": "/abang-abangan_store/static/js/main.0f2678c1.chunk.js.map",
     "runtime-main.js": "/abang-abangan_store/static/js/runtime-main.8fe8721a.js",
     "runtime-main.js.map": "/abang-abangan_store/static/js/runtime-main.8fe8721a.js.map",
     "static/css/2.a14cc2f6.chunk.css": "/abang-abangan_store/static/css/2.a14cc2f6.chunk.css",
@@ -23,6 +23,6 @@
     "static/css/2.a14cc2f6.chunk.css",
     "static/js/2.b623d96a.chunk.js",
     "static/css/main.5311f6c3.chunk.css",
-    "static/js/main.bee582c1.chunk.js"
+    "static/js/main.0f2678c1.chunk.js"
   ]
 }

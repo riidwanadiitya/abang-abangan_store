@@ -20,7 +20,11 @@ const items = [
   },
   {
     header: "344 Diamonds",
-    description: "Rp. 429.000",
+    description: "Rp. 83.000",
+  },
+  {
+    header: "429 Diamonds",
+    description: "Rp. 105.000",
   },
   {
     header: "514 Diamonds",

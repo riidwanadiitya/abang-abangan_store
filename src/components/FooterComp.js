@@ -7,7 +7,7 @@ export default class FooterComp extends Component {
             <div className="App">
                 <Segment inverted>
                     Contact Us <br/>
-                    <Popup content='+62-896-3924-7810' on="click" pinned trigger={<Icon name="whatsapp"/>} />
+                    <Popup content='+62-857-1889-5449' on="click" pinned trigger={<Icon name="whatsapp"/>} />
                     <Popup content='@abang-abangan_store' on="click" pinned trigger={<Icon name="instagram"/>} />
                       <br/>
                     <Icon name="copyright outline"/>Abang-Abangan Store 2021 <br/>

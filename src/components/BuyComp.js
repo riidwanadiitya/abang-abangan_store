@@ -8,7 +8,7 @@ export default class BuyComp extends Component {
     return (
       <div className='App'>
         <div className="App-header">
-          <Button positive size="massive" as="a" href={`https://wa.me/6289639247810?text=${beli}`}
+          <Button positive size="massive" as="a" href={`https://wa.me/6285718895449?text=${beli}`}
           target="_blank">
            <Icon name="cart" /> Beli Diamond
           </Button>

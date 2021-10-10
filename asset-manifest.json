@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/abang-abangan_store/static/css/main.5311f6c3.chunk.css",
-    "main.js": "/abang-abangan_store/static/js/main.0f2678c1.chunk.js",
-    "main.js.map": "/abang-abangan_store/static/js/main.0f2678c1.chunk.js.map",
+    "main.css": "/abang-abangan_store/static/css/main.31d62aef.chunk.css",
+    "main.js": "/abang-abangan_store/static/js/main.651951f9.chunk.js",
+    "main.js.map": "/abang-abangan_store/static/js/main.651951f9.chunk.js.map",
     "runtime-main.js": "/abang-abangan_store/static/js/runtime-main.8fe8721a.js",
     "runtime-main.js.map": "/abang-abangan_store/static/js/runtime-main.8fe8721a.js.map",
     "static/css/2.a14cc2f6.chunk.css": "/abang-abangan_store/static/css/2.a14cc2f6.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.5327cf5e.chunk.js.map": "/abang-abangan_store/static/js/3.5327cf5e.chunk.js.map",
     "index.html": "/abang-abangan_store/index.html",
     "static/css/2.a14cc2f6.chunk.css.map": "/abang-abangan_store/static/css/2.a14cc2f6.chunk.css.map",
-    "static/css/main.5311f6c3.chunk.css.map": "/abang-abangan_store/static/css/main.5311f6c3.chunk.css.map",
+    "static/css/main.31d62aef.chunk.css.map": "/abang-abangan_store/static/css/main.31d62aef.chunk.css.map",
     "static/js/2.b623d96a.chunk.js.LICENSE.txt": "/abang-abangan_store/static/js/2.b623d96a.chunk.js.LICENSE.txt",
     "static/media/semantic.min.css": "/abang-abangan_store/static/media/outline-icons.ddae9b1b.woff",
     "static/media/foto1.963eebb0.jpg": "/abang-abangan_store/static/media/foto1.963eebb0.jpg",
@@ -22,7 +22,7 @@
     "static/js/runtime-main.8fe8721a.js",
     "static/css/2.a14cc2f6.chunk.css",
     "static/js/2.b623d96a.chunk.js",
-    "static/css/main.5311f6c3.chunk.css",
-    "static/js/main.0f2678c1.chunk.js"
+    "static/css/main.31d62aef.chunk.css",
+    "static/js/main.651951f9.chunk.js"
   ]
 }

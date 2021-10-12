@@ -6,6 +6,7 @@ import StepsComp from './components/StepsComp'
 import './App.css'
 import BuyComp from './components/BuyComp'
 import FooterComp from './components/FooterComp'
+import Payment from './components/Payment'
 // import Maintenance from './maintenance/Maintenance' // for maintenance
 
 export default class App extends Component {
@@ -15,6 +16,7 @@ export default class App extends Component {
         <HeaderComp />
         <SliderComp />
         <StepsComp />
+        <Payment />
         <PricelistComp />
         <BuyComp />
         <FooterComp />

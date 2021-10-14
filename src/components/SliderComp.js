@@ -4,6 +4,7 @@ import { Carousel } from "react-responsive-carousel";
 import { Container,Image } from "semantic-ui-react";
 import  foto1 from '../images/foto1.jpg';
 import  foto2 from '../images/foto2.jpg';
+import fotoAbang from '../images/SliderAbang.jpg';
 
 export default class SliderComp extends Component {
   render() {
@@ -11,6 +12,9 @@ export default class SliderComp extends Component {
       <div>
         <Container>
           <Carousel autoPlay={true} showThumbs={false} infiniteLoop={true} showStatus={false}>
+            <div>
+              <Image src={fotoAbang} />
+            </div>
             <div>
               <Image src={foto2} />
             </div>

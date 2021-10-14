@@ -1,5 +1,7 @@
 import React, { Component } from "react";
-import { Header, Segment } from "semantic-ui-react";
+import { Header, Segment, Image } from "semantic-ui-react";
+import headerImg from '../images/header.png';
+import '../App.css';
 
 export default class HeaderComp extends Component {
   render() {
@@ -7,7 +9,7 @@ export default class HeaderComp extends Component {
       <div>
         <Segment inverted>
           <Header as="h2" inverted>
-            Abang-Abangan Store
+            <Image src={headerImg} className="header-pic"/>
           </Header>
         </Segment>
       </div>

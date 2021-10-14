@@ -21,8 +21,8 @@ export default class StepsComp extends Component {
               <Step>
                 <Icon name="whatsapp" />
                 <Step.Content>
-                  <Step.Title>Isi Formulir di Whatsapp</Step.Title>
-                  <Step.Description>Pastikan mengisi <strong>Data</strong> dengan <strong>Benar</strong></Step.Description>
+                  <Step.Title>Kirim Id + Server kalian</Step.Title>
+                  <Step.Description>Pastikan mengisi dengan <strong>Benar</strong></Step.Description>
                 </Step.Content>
               </Step>
 

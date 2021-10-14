@@ -1,28 +1,28 @@
 {
   "files": {
     "main.css": "/abang-abangan_store/static/css/main.31d62aef.chunk.css",
-    "main.js": "/abang-abangan_store/static/js/main.95408aaf.chunk.js",
-    "main.js.map": "/abang-abangan_store/static/js/main.95408aaf.chunk.js.map",
-    "runtime-main.js": "/abang-abangan_store/static/js/runtime-main.8fe8721a.js",
-    "runtime-main.js.map": "/abang-abangan_store/static/js/runtime-main.8fe8721a.js.map",
+    "main.js": "/abang-abangan_store/static/js/main.102d9cef.chunk.js",
+    "main.js.map": "/abang-abangan_store/static/js/main.102d9cef.chunk.js.map",
+    "runtime-main.js": "/abang-abangan_store/static/js/runtime-main.52c9ec47.js",
+    "runtime-main.js.map": "/abang-abangan_store/static/js/runtime-main.52c9ec47.js.map",
     "static/css/2.a14cc2f6.chunk.css": "/abang-abangan_store/static/css/2.a14cc2f6.chunk.css",
-    "static/js/2.7af7ee9b.chunk.js": "/abang-abangan_store/static/js/2.7af7ee9b.chunk.js",
-    "static/js/2.7af7ee9b.chunk.js.map": "/abang-abangan_store/static/js/2.7af7ee9b.chunk.js.map",
-    "static/js/3.5327cf5e.chunk.js": "/abang-abangan_store/static/js/3.5327cf5e.chunk.js",
-    "static/js/3.5327cf5e.chunk.js.map": "/abang-abangan_store/static/js/3.5327cf5e.chunk.js.map",
+    "static/js/2.3f45286b.chunk.js": "/abang-abangan_store/static/js/2.3f45286b.chunk.js",
+    "static/js/2.3f45286b.chunk.js.map": "/abang-abangan_store/static/js/2.3f45286b.chunk.js.map",
+    "static/js/3.e42238c8.chunk.js": "/abang-abangan_store/static/js/3.e42238c8.chunk.js",
+    "static/js/3.e42238c8.chunk.js.map": "/abang-abangan_store/static/js/3.e42238c8.chunk.js.map",
     "index.html": "/abang-abangan_store/index.html",
     "static/css/2.a14cc2f6.chunk.css.map": "/abang-abangan_store/static/css/2.a14cc2f6.chunk.css.map",
     "static/css/main.31d62aef.chunk.css.map": "/abang-abangan_store/static/css/main.31d62aef.chunk.css.map",
-    "static/js/2.7af7ee9b.chunk.js.LICENSE.txt": "/abang-abangan_store/static/js/2.7af7ee9b.chunk.js.LICENSE.txt",
+    "static/js/2.3f45286b.chunk.js.LICENSE.txt": "/abang-abangan_store/static/js/2.3f45286b.chunk.js.LICENSE.txt",
     "static/media/semantic.min.css": "/abang-abangan_store/static/media/outline-icons.ddae9b1b.woff",
     "static/media/foto1.963eebb0.jpg": "/abang-abangan_store/static/media/foto1.963eebb0.jpg",
     "static/media/foto2.844ff377.jpg": "/abang-abangan_store/static/media/foto2.844ff377.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8fe8721a.js",
+    "static/js/runtime-main.52c9ec47.js",
     "static/css/2.a14cc2f6.chunk.css",
-    "static/js/2.7af7ee9b.chunk.js",
+    "static/js/2.3f45286b.chunk.js",
     "static/css/main.31d62aef.chunk.css",
-    "static/js/main.95408aaf.chunk.js"
+    "static/js/main.102d9cef.chunk.js"
   ]
 }

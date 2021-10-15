@@ -7,6 +7,7 @@ import './App.css'
 import BuyComp from './components/BuyComp'
 import FooterComp from './components/FooterComp'
 import Payment from './components/Payment'
+import HeadPic from './components/HeadPic'
 // import Maintenance from './maintenance/Maintenance' // for maintenance
 
 export default class App extends Component {
@@ -14,6 +15,7 @@ export default class App extends Component {
     return (
       <div>
         <HeaderComp />
+        <HeadPic />
         <SliderComp />
         <StepsComp />
         <Payment />
